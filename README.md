@@ -10,14 +10,7 @@
 qdqlovezhl/qdqlovezhl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="UTF-8" />
-    <title>爱意永存</title>
-</head>
-<body>  
- <h1 align="center"><font face="华文彩云"  color="red">山无棱<br/>天地合<br/>乃敢与君绝</font></h1>
+
  <hr color="bule" align="center" size="3" width="600像素"/> 
  <h2 align="left"><u><font color="black">2级标题,左对齐。</font></u></h2>
 
